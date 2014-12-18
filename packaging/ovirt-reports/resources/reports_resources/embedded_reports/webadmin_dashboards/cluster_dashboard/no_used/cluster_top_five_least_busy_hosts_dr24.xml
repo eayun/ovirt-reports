@@ -94,7 +94,7 @@
             <version>1</version>
             <label>ovirt_reports_bundle_ja.properties</label>
             <creationDate>2012-03-30T08:51:12.530+03:00</creationDate>
-            <updateDate>2012-03-30T08:51:12.530+03:00</updateDate
+            <updateDate>2012-03-30T08:51:12.530+03:00</updateDate>
             <referenceUri>/reports_resources/localization/ovirt_reports_bundle_ja.properties</referenceUri>
        </localResource>
     </resource>
@@ -120,7 +120,7 @@
             <creationDate>2012-03-30T08:51:12.530+03:00</creationDate>
             <updateDate>2012-03-30T08:51:12.530+03:00</updateDate>
             <referenceUri>/reports_resources/localization/ovirt_reports_bundle_zh_CN.properties</referenceUri>
-        </localResource
+        </localResource>
     </resource>
     <resource>
         <localResource
@@ -136,4 +136,4 @@
     </resource>
     <alwaysPromptControls>true</alwaysPromptControls>
     <controlsLayout>1</controlsLayout>
- </reportUnite>
+ </reportUnit>
