@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config xmlns="http://zanata.org/namespace/config/">
+  <url>https://translate.zanata.org/zanata/</url>
+  <project>ovirt-reports-history</project>
+  <project-version>3.5</project-version>
+  <!-- <project-type>utf8properties|properties|gettext|podir|xliff|xml|file</project-type> -->
+
+  <locales>
+    <locale map-from="zh_CN">zh-Hans-CN</locale>
+  </locales>
+
+  <hooks>
+    <hook command="pull">
+      <after>cp ovirt_reports_bundle_zh_CN.properties ./packaging/ovirt-reports/resources/reports_resources/localization/ovirt_reports_bundle_zh_CN.properties.data</after>
+    </hook>
+  </hooks>
+
+</config>
