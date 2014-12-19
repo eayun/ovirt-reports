@@ -3,7 +3,7 @@
   <url>https://translate.zanata.org/zanata/</url>
   <project>ovirt-reports-history</project>
   <project-version>3.5</project-version>
-  <!-- <project-type>utf8properties|properties|gettext|podir|xliff|xml|file</project-type> -->
+  <project-type>properties</project-type>
 
   <locales>
     <locale map-from="zh_CN">zh-Hans-CN</locale>
