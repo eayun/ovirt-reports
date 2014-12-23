@@ -1,21 +1,21 @@
 #!/bin/sh
 #
-# Start/stop oVirt Engine Reports
+# Start/stop EayunOS Engine Reports
 #
 # chkconfig: - 65 34
-# description: oVirt Engine Reports
+# description: EayunOS Engine Reports
 # pidfile: /var/run/ovirt-engine-reportsd.pid
 
 ### BEGIN INIT INFO
 # Provides: ovirt-engine-reportsd
-# Short-Description: oVirt Engine Reports
+# Short-Description: EayunOS Engine Reports
 ### END INIT INFO
 
 # Source function library.
 . /etc/rc.d/init.d/functions
 
 NAME="ovirt-engine-reportsd"
-PROG="oVirt Engine Reports"
+PROG="EayunOS Engine Reports"
 
 [ -f "/etc/sysconfig/${NAME}" ] && . "/etc/sysconfig/${NAME}"
 

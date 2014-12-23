@@ -1,5 +1,5 @@
 [Unit]
-Description=oVirt Engine Reports
+Description=EayunOS Engine Reports
 After=network.service postgresql.service
 
 [Service]

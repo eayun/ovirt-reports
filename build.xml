@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<project name="oVirt Engine Reports" default="all">
+<project name="EayunOS Engine Reports" default="all">
 	<property file="build.properties"/>
 	<property name="build.root" location="."/>
 	<property name="build.output" value="${build.root}/lib"/>
